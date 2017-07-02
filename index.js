@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.P2P = require('./lib');
+var guldencore = require('guldencore-lib');
+guldencore.P2P = require('./lib');
 
-module.exports = litecore.P2P;
+module.exports = guldencore.P2P;
